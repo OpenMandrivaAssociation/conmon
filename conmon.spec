@@ -8,6 +8,7 @@ Summary: Tool for monitoring OCI containers and pods
 URL: https://github.com/containers/conmon
 License: Apache-2.0
 Group: Servers
+BuildRequires: golang
 BuildRequires: pkgconfig(glib-2.0)
 BuildRequires: pkgconfig(libseccomp)
 BuildRequires: pkgconfig(systemd)
