@@ -1,7 +1,7 @@
 %undefine _debugsource_packages
 
 Name: conmon
-Version: 2.1.12
+Version: 2.2.1
 Release: 1
 Source0: https://github.com/containers/conmon/archive/refs/tags/v%{version}.tar.gz
 Summary: Tool for monitoring OCI containers and pods
